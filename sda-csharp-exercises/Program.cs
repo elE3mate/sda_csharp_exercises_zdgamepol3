@@ -17,7 +17,7 @@ namespace sda_csharp_exercises
 
                 if (result < 0)
                 {
-                    Console.WriteLine("Wynik ujemny");
+                    Console.WriteLine("Wykladnik ujemny");
                 }
 
                 
